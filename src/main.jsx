@@ -5,7 +5,6 @@ import './index.css';
 import './i18n/i18n';
 import { BrowserRouter, useLocation } from 'react-router-dom';
 
-// Sahifa o'zgarganda skrollni eng tepaga qaytaruvchi komponent
 function ScrollToTop() {
   const { pathname } = useLocation();
 
@@ -18,7 +17,7 @@ function ScrollToTop() {
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename="/furniro---site">
       <ScrollToTop />
       <App />
     </BrowserRouter>
