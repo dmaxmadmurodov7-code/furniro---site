@@ -1,0 +1,159 @@
+{
+  "nav": {
+    "home": "Bosh sahifa",
+    "shop": "Do'kon",
+    "about": "Blog",
+    "contact": "Aloqa"
+  },
+  "hero": {
+    "tagline": "Yangi To'plam",
+    "title": "Ajoyib To'plamimizni Kashf Eting",
+    "description": "Uyingiz uchun eng zamonaviy va qulay mebellarni tanlang. Sifat va nafosat bir joyda.",
+    "button": "Hozir Xarid Qiling"
+  },
+  "shop": {
+    "title": "Do'kon",
+    "breadcrumb": "Bosh sahifa",
+    "filter": "Filtr",
+    "showing": "32 ta natijadan 1–16 ko'rsatilmoqda",
+    "show": "Ko'rsatish",
+    "sortBy": "Saralash",
+    "default": "Odatiy",
+    "next": "Keyingisi"
+  },
+  "features": {
+    "highQuality": "Yuqori Sifat",
+    "highQualityDesc": "eng saralangan materiallardan",
+    "warranty": "Kafolat Himoyasi",
+    "warrantyDesc": "2 yildan ortiq",
+    "shipping": "Bepul Yetkazib Berish",
+    "shippingDesc": "150$ dan yuqori buyurtmalarga",
+    "support": "24/7 Qo'llab-quvvatlash",
+    "supportDesc": "Maxsus qo'llab-quvvatlash xizmati"
+  },
+  "blog": {
+    "title": "Blog",
+    "breadcrumb": "Bosh sahifa",
+    "readMore": "Batafsil o'qish",
+    "categoriesTitle": "Kategoriyalar",
+    "recentPostsTitle": "So'nggi maqolalar",
+    "post1Title": "Millennial dizayniga to'liq sho'ng'ish",
+    "post1Desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mus mauris vitae ultricies leo integer malesuada nunc. In nulla posuere sollicitudin aliquam ultrices. Morbi blandit cursus risus at ultrices mi tempus imperdiet.",
+    "post2Title": "Bezatishning yangi usullarini kashf etish",
+    "post2Desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mus mauris vitae ultricies leo integer malesuada nunc. In nulla posuere sollicitudin aliquam ultrices. Morbi blandit cursus risus at ultrices mi tempus imperdiet.",
+    "post3Title": "Yaratilishiga vaqt ketgan qo'l mehnati namunalari",
+    "post3Desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mus mauris vitae ultricies leo integer malesuada nunc. In nulla posuere sollicitudin aliquam ultrices. Morbi blandit cursus risus at ultrices mi tempus imperdiet.",
+    "admin": "Admin",
+    "catWood": "Yog'och",
+    "catHandmade": "Qo'l mehnati",
+    "catCrafts": "Hunarmanchilik",
+    "catDesign": "Dizayn",
+    "catInterior": "Interyer",
+    "recent1": "Millennial dizayniga to'liq sho'ng'ish",
+    "recent2": "Bezatishning yangi usullarini kashf etish",
+    "recent3": "Yaratilishiga vaqt ketgan qo'l mehnati namunalari",
+    "recent4": "Milandagi zamonaviy uy",
+    "recent5": "Yorqin ofis dizayni"
+  },
+  "contact": {
+    "title": "Aloqa",
+    "breadcrumb": "Bosh sahifa",
+    "heading": "Biz Bilan Bog'laning",
+    "subheading": "Mahsulotlarimiz va xizmatlarimiz haqida ko'proq ma'lumot olish uchun bizga xabar qoldiring. Xodimlarimiz har doim sizga yordam berishga tayyor!",
+    "addressTitle": "Manzil",
+    "addressText": "236 5th SE Avenue, New York NY10000, United States",
+    "phoneTitle": "Telefon",
+    "phoneMobile": "Mobil: +(84) 546-6789",
+    "phoneHotline": "Ishonch telefoni: +(84) 456-6789",
+    "workingTimeTitle": "Ish Vaqti",
+    "workingTimeWeekdays": "Dushanba–Juma: 9:00 - 22:00",
+    "workingTimeWeekends": "Shanba–Yakshanba: 9:00 - 21:00",
+    "yourName": "Ismingiz",
+    "emailAddress": "Email manzilingiz",
+    "subject": "Mavzu",
+    "subjectPlaceholder": "Bu ixtiyoriy",
+    "message": "Xabar",
+    "messagePlaceholder": "Savolingizni yozing...",
+    "submit": "Yuborish"
+  },
+  "categories": {
+    "title": "Katalog bo'ylab qidirish",
+    "subtitle": "Uyingiz va ofisingiz uchun mos mebellarni tanlang",
+    "dining": "Oshoqxona",
+    "living": "Mehmqxona",
+    "bedroom": "Yotoqxona"
+  },
+  "products": {
+    "title": "Bizning Mahsulotlar",
+    "addToCart": "Savatga qo'shish",
+    "share": "Ulashish",
+    "compare": "Taqqoslash",
+    "like": "Saralangan",
+    "showMore": "Ko'proq ko'rsatish",
+    "items": {
+      "p1": { "desc": "Zamonaviy va shinam kafe stuli" },
+      "p2": { "desc": "Nafis va qulay stul" },
+      "p3": { "desc": "Katta shinam divan" },
+      "p4": { "desc": "Yumshoq divan va yostiqcha" },
+      "p5": { "desc": "Ko'p funksiyali tungi chiroq" },
+      "p6": { "desc": "Minimalist va zamonaviy stul" },
+      "p7": { "desc": "Kichik va qulay divan" },
+      "p8": { "desc": "Dizaynerlik chirog'i" }
+    }
+  },
+  "inspiration": {
+    "title": "50+ Chiroyli xonalar ilhomi",
+    "subtitle": "Dizaynerlarimiz sizga mos ravishda yaratgan ko'plab go'zal xona namunalari va g'oyalarini taqdim etadi",
+    "button": "Ko'proq o'rganish",
+    "roomType": "Yotoqxona",
+    "roomName": "Ichki bezak"
+  },
+  "gallery": {
+    "subtitle": "Xaridorlarimiz uylari va tajribalari",
+    "title": "#FuniroFurniture"
+  },
+  "footer": {
+    "address": "400 University Drive Suite 200 Coral Gables, FL 33146 AQSH",
+    "links": "Havolalar",
+    "home": "Bosh sahifa",
+    "shop": "Do'kon",
+    "about": "Blog",
+    "contact": "Aloqa",
+    "help": "Yordam",
+    "paymentOptions": "To'lov usullari",
+    "returns": "Qaytarishlar",
+    "privacyPolicies": "Maxfiylik siyosati",
+    "newsletter": "Yangiliklar",
+    "placeholder": "Email manzilingizni kiriting",
+    "subscribe": "Obuna bo'lish",
+    "rights": "2023 Funiro. Barcha huquqlar himoyalangan"
+  },
+  "shopProducts": {
+    "next": "Keyingisi",
+    "items": {
+      "p1": { "name": "Syltherine", "desc": "Nafis va zamonaviy kafe stuli" },
+      "p2": { "name": "Leviosa", "desc": "Yengil va shinam yog'och stul" },
+      "p3": { "name": "Lolito", "desc": "Katta yumshoq oilaviy divan" },
+      "p4": { "desc": "Tashqari uchun bar stoli va stuli", "name": "Respira" },
+      "p5": { "name": "Grifo", "desc": "Tungi zamonaviy yoritgich" },
+      "p6": { "name": "Muggo", "desc": "Kichik minimalist stul" },
+      "p7": { "name": "Pingky", "desc": "Shinam pushti divan to'plami" },
+      "p8": { "name": "Potty", "desc": "Dizaynerlik gul tuvagi" }
+    }
+  },
+  "blogg": {
+    "readMore": "Batafsil o'qish",
+    "post1": {
+      "title": "Nafis va zamonaviy xona dizaynlarini yaratish",
+      "excerpt": "Uyingiz interyerini bezashda ranglar va mebellarning mutanosibligi muhim o'rin tutadi. Mebellarni to'g'ri tanlash va joylashtirish orqali siz xonani yanada shinam va kengroq ko'rinishga keltirishingiz mumkin."
+    },
+    "post2": {
+      "title": "Uy uchun sifatli mebellarni tanlash bo'yicha maslahatlar",
+      "excerpt": "Har bir xonadon uchun sifatli va uzoq yillar xizmat qiladigan mebellarni tanlash muhim. Yog'och sifati va matoning chidamliligiga alohida e'tibor bering."
+    },
+    "post3": {
+      "title": "Handmade va minimalist bezak buyumlari",
+      "excerpt": "Minimalist uslubdagi mebel va bezaklar xonaga o'zgacha qulaylik bag'ishlaydi. Kamroq narsa — ko'proq erkinlik deganidir."
+    }
+  }
+}

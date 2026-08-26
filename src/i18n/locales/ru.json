@@ -1,0 +1,159 @@
+{
+  "nav": {
+    "home": "Главная",
+    "shop": "Магазин",
+    "about": "Блог",
+    "contact": "Контакты"
+  },
+  "hero": {
+    "tagline": "Новая Коллекция",
+    "title": "Откройте Нашу Новую Коллекцию",
+    "description": "Выберите самую современную и удобную мебель для вашего дома. Качество и стиль в одном месте.",
+    "button": "Купить Сейчас"
+  },
+  "shop": {
+    "title": "Магазин",
+    "breadcrumb": "Главная",
+    "filter": "Фильтр",
+    "showing": "Показано 1–16 из 32 результатов",
+    "show": "Показать",
+    "sortBy": "Сортировка",
+    "default": "По умолчанию",
+    "next": "Следующая"
+  },
+  "features": {
+    "highQuality": "Высокое Качество",
+    "highQualityDesc": "из лучших материалов",
+    "warranty": "Гарантийная Защита",
+    "warrantyDesc": "Более 2 лет",
+    "shipping": "Бесплатная Доставка",
+    "shippingDesc": "Заказ от 150 $",
+    "support": "Поддержка 24 / 7",
+    "supportDesc": "Персональная поддержка"
+  },
+  "blog": {
+    "title": "Блог",
+    "breadcrumb": "Главная",
+    "readMore": "Читать далее",
+    "categoriesTitle": "Категории",
+    "recentPostsTitle": "Последние статьи",
+    "post1Title": "Погружение в современный дизайн",
+    "post1Desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mus mauris vitae ultricies leo integer malesuada nunc. In nulla posuere sollicitudin aliquam ultrices. Morbi blandit cursus risus at ultrices mi tempus imperdiet.",
+    "post2Title": "Исследование новых способов декорирования",
+    "post2Desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mus mauris vitae ultricies leo integer malesuada nunc. In nulla posuere sollicitudin aliquam ultrices. Morbi blandit cursus risus at ultrices mi tempus imperdiet.",
+    "post3Title": "Изделия ручной работы, требующие времени",
+    "post3Desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mus mauris vitae ultricies leo integer malesuada nunc. In nulla posuere sollicitudin aliquam ultrices. Morbi blandit cursus risus at ultrices mi tempus imperdiet.",
+    "admin": "Админ",
+    "catWood": "Дерево",
+    "catHandmade": "Ручная работа",
+    "catCrafts": "Ремесла",
+    "catDesign": "Дизайн",
+    "catInterior": "Интерьер",
+    "recent1": "Погружение в современный дизайн",
+    "recent2": "Исследование новых способов декорирования",
+    "recent3": "Изделия ручной работы, требующие времени",
+    "recent4": "Современный дом в Милане",
+    "recent5": "Яркий дизайн офиса"
+  },
+  "contact": {
+    "title": "Контакты",
+    "breadcrumb": "Главная",
+    "heading": "Свяжитесь с нами",
+    "subheading": "Для получения дополнительной информации о наших продуктах и услугах, пожалуйста, напишите нам. Наш персонал всегда готов помочь вам!",
+    "addressTitle": "Адрес",
+    "addressText": "236 5th SE Avenue, Нью-Йорк NY10000, США",
+    "phoneTitle": "Телефон",
+    "phoneMobile": "Мобильный: +(84) 546-6789",
+    "phoneHotline": "Горячая линия: +(84) 456-6789",
+    "workingTimeTitle": "Время работы",
+    "workingTimeWeekdays": "Понедельник–Пятница: 9:00 - 22:00",
+    "workingTimeWeekends": "Суббота–Воскресенье: 9:00 - 21:00",
+    "yourName": "Ваше имя",
+    "emailAddress": "Email адрес",
+    "subject": "Тема",
+    "subjectPlaceholder": "Необязательно",
+    "message": "Сообщение",
+    "messagePlaceholder": "Здравствуйте! Я хотел бы спросить о...",
+    "submit": "Отправить"
+  },
+  "categories": {
+    "title": "Обзор Ассортимента",
+    "subtitle": "Выберите подходящую мебель для вашего дома и офиса.",
+    "dining": "Столовая",
+    "living": "Гостиная",
+    "bedroom": "Спальня"
+  },
+  "products": {
+    "title": "Наша Продукция",
+    "addToCart": "В корзину",
+    "share": "Поделиться",
+    "compare": "Сравнить",
+    "like": "Нравится",
+    "showMore": "Показать еще",
+    "items": {
+      "p1": { "desc": "Стильный стул для кафе" },
+      "p2": { "desc": "Изящный стул для отдыха" },
+      "p3": { "desc": "Роскошный большой диван" },
+      "p4": { "desc": "Уютный диван с подушкой" },
+      "p5": { "desc": "Многофункциональная ночная лампа" },
+      "p6": { "desc": "Минималистичный стул" },
+      "p7": { "desc": "Компактный комфортный диван" },
+      "p8": { "desc": "Дизайнерский светильник" }
+    }
+  },
+  "inspiration": {
+    "title": "50+ Идей красивых комнат",
+    "subtitle": "Наши дизайнеры уже создали множество прекрасных прототипов комнат для вашего вдохновения",
+    "button": "Узнать больше",
+    "roomType": "Спальня",
+    "roomName": "Внутренний уют"
+  },
+  "gallery": {
+    "subtitle": "Поделитесь вашим интерьером c",
+    "title": "#FuniroFurniture"
+  },
+  "footer": {
+    "address": "400 University Drive Suite 200 Coral Gables, FL 33146 США",
+    "links": "Ссылки",
+    "home": "Главная",
+    "shop": "Магазин",
+    "about": "Блог",
+    "contact": "Контакты",
+    "help": "Помощь",
+    "paymentOptions": "Варианты оплаты",
+    "returns": "Возвраты",
+    "privacyPolicies": "Политика конфиденциальности",
+    "newsletter": "Рассылка",
+    "placeholder": "Введите ваш email",
+    "subscribe": "ПОДПИСАТЬСЯ",
+    "rights": "2023 Funiro. Все права защищены"
+  },
+  "shopProducts": {
+    "next": "Следующая",
+    "items": {
+      "p1": { "name": "Syltherine", "desc": "Стильный стул для кафе" },
+      "p2": { "name": "Leviosa", "desc": "Легкий деревянный стул" },
+      "p3": { "name": "Lolito", "desc": "Роскошный большой семейный диван" },
+      "p4": { "name": "Respira", "desc": "Уличный барный стол и стул" },
+      "p5": { "name": "Grifo", "desc": "Современный ночной светильник" },
+      "p6": { "name": "Muggo", "desc": "Компактный минималистичный стул" },
+      "p7": { "name": "Pingky", "desc": "Уютный розовый диван" },
+      "p8": { "name": "Potty", "desc": "Дизайнерский цветочный горшок" }
+    }
+  },
+  "blogg": {
+    "readMore": "Читать далее",
+    "post1": {
+      "title": "Создание элегантного и современного дизайна комнат",
+      "excerpt": "Сочетание цветов и мебели играет важную роль в оформлении интерьера вашего дома. Правильный выбор и расстановка мебели сделают комнату более уютной и просторной."
+    },
+    "post2": {
+      "title": "Советы по выбору качественной мебели для дома",
+      "excerpt": "Для каждого дома важно выбирать качественную и долговечную мебель. Обращайте особое внимание на качество древесины и прочность ткани."
+    },
+    "post3": {
+      "title": "Изделия ручной работы и минималистичный декор",
+      "excerpt": "Мебель и декор в стиле минимализма придают комнате особый комфорт. Меньше вещей — больше свободы."
+    }
+  }
+}

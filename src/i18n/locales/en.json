@@ -1,0 +1,159 @@
+{
+  "nav": {
+    "home": "Home",
+    "shop": "Shop",
+    "about": "Blog",
+    "contact": "Contact"
+  },
+  "hero": {
+    "tagline": "New Arrival",
+    "title": "Discover Our New Collection",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis.",
+    "button": "BUY Now"
+  },
+  "shop": {
+    "title": "Shop",
+    "breadcrumb": "Home",
+    "filter": "Filter",
+    "showing": "Showing 1–16 of 32 results",
+    "show": "Show",
+    "sortBy": "Sort by",
+    "default": "Default",
+    "next": "Next"
+  },
+  "features": {
+    "highQuality": "High Quality",
+    "highQualityDesc": "crafted from top materials",
+    "warranty": "Warranty Protection",
+    "warrantyDesc": "Over 2 years",
+    "shipping": "Free Shipping",
+    "shippingDesc": "Order over 150 $",
+    "support": "24 / 7 Support",
+    "supportDesc": "Dedicated support"
+  },
+  "blog": {
+    "title": "Blog",
+    "breadcrumb": "Home",
+    "readMore": "Read more",
+    "categoriesTitle": "Categories",
+    "recentPostsTitle": "Recent Posts",
+    "post1Title": "Going all-in with millennial design",
+    "post1Desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mus mauris vitae ultricies leo integer malesuada nunc. In nulla posuere sollicitudin aliquam ultrices. Morbi blandit cursus risus at ultrices mi tempus imperdiet.",
+    "post2Title": "Exploring new ways of decorating",
+    "post2Desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mus mauris vitae ultricies leo integer malesuada nunc. In nulla posuere sollicitudin aliquam ultrices. Morbi blandit cursus risus at ultrices mi tempus imperdiet.",
+    "post3Title": "Handmade pieces that took time to make",
+    "post3Desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mus mauris vitae ultricies leo integer malesuada nunc. In nulla posuere sollicitudin aliquam ultrices. Morbi blandit cursus risus at ultrices mi tempus imperdiet.",
+    "admin": "Admin",
+    "catWood": "Wood",
+    "catHandmade": "Handmade",
+    "catCrafts": "Crafts",
+    "catDesign": "Design",
+    "catInterior": "Interior",
+    "recent1": "Going all-in with millennial design",
+    "recent2": "Exploring new ways of decorating",
+    "recent3": "Handmade pieces that took time to make",
+    "recent4": "Modern home in Milan",
+    "recent5": "Colorful office redesign"
+  },
+  "contact": {
+    "title": "Contact",
+    "breadcrumb": "Home",
+    "heading": "Get In Touch With Us",
+    "subheading": "For More Information About Our Product & Services. Please Feel Free To Drop Us An Email. Our Staff Always Be There To Help You Out. Do Not Hesitate!",
+    "addressTitle": "Address",
+    "addressText": "236 5th SE Avenue, New York NY10000, United States",
+    "phoneTitle": "Phone",
+    "phoneMobile": "Mobile: +(84) 546-6789",
+    "phoneHotline": "Hotline: +(84) 456-6789",
+    "workingTimeTitle": "Working Time",
+    "workingTimeWeekdays": "Monday–Friday: 9:00 - 22:00",
+    "workingTimeWeekends": "Saturday–Sunday: 9:00 - 21:00",
+    "yourName": "Your name",
+    "emailAddress": "Email address",
+    "subject": "Subject",
+    "subjectPlaceholder": "This is an optional",
+    "message": "Message",
+    "messagePlaceholder": "Hi! I'd like to ask about",
+    "submit": "Submit"
+  },
+  "categories": {
+    "title": "Browse The Range",
+    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "dining": "Dining",
+    "living": "Living",
+    "bedroom": "Bedroom"
+  },
+  "products": {
+    "title": "Our Products",
+    "addToCart": "Add to cart",
+    "share": "Share",
+    "compare": "Compare",
+    "like": "Like",
+    "showMore": "Show More",
+    "items": {
+      "p1": { "desc": "Stylish cafe chair" },
+      "p2": { "desc": "Stylish cafe chair" },
+      "p3": { "desc": "Luxury big sofa" },
+      "p4": { "desc": "Outdoor bar table and stool" },
+      "p5": { "desc": "Night lamp" },
+      "p6": { "desc": "Small mug" },
+      "p7": { "desc": "Cute sofa set" },
+      "p8": { "desc": "Minimalist flower pot" }
+    }
+  },
+  "inspiration": {
+    "title": "50+ Beautiful rooms inspiration",
+    "subtitle": "Our designer already made a lot of beautiful prototype of rooms that inspire you",
+    "button": "Explore More",
+    "roomType": "Bed Room",
+    "roomName": "Inner Peace"
+  },
+  "gallery": {
+    "subtitle": "Share your setup with",
+    "title": "#FuniroFurniture"
+  },
+  "footer": {
+    "address": "400 University Drive Suite 200 Coral Gables, FL 33146 USA",
+    "links": "Links",
+    "home": "Home",
+    "shop": "Shop",
+    "about": "Blog",
+    "contact": "Contact",
+    "help": "Help",
+    "paymentOptions": "Payment Options",
+    "returns": "Returns",
+    "privacyPolicies": "Privacy Policies",
+    "newsletter": "Newsletter",
+    "placeholder": "Enter Your Email Address",
+    "subscribe": "SUBSCRIBE",
+    "rights": "2023 Funiro. All rights reserved"
+  },
+  "shopProducts": {
+    "next": "Next",
+    "items": {
+      "p1": { "name": "Syltherine", "desc": "Stylish cafe chair" },
+      "p2": { "name": "Leviosa", "desc": "Lightweight wooden chair" },
+      "p3": { "name": "Lolito", "desc": "Luxury big family sofa" },
+      "p4": { "name": "Respira", "desc": "Outdoor bar table and stool" },
+      "p5": { "name": "Grifo", "desc": "Night modern lamp" },
+      "p6": { "name": "Muggo", "desc": "Small minimalist chair" },
+      "p7": { "name": "Pingky", "desc": "Cute pink sofa set" },
+      "p8": { "name": "Potty", "desc": "Minimalist flower pot" }
+    }
+  },
+  "blogg": {
+    "readMore": "Read more",
+    "post1": {
+      "title": "Going all-in with millennial design",
+      "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mus mauris vitae ultricies leo integer malesuada nunc. In nulla posuere sollicitudin aliquam ultrices."
+    },
+    "post2": {
+      "title": "Exploring new ways of decorating",
+      "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mus mauris vitae ultricies leo integer malesuada nunc. In nulla posuere sollicitudin aliquam ultrices."
+    },
+    "post3": {
+      "title": "Handmade pieces that took time to make",
+      "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mus mauris vitae ultricies leo integer malesuada nunc. In nulla posuere sollicitudin aliquam ultrices."
+    }
+  }
+}
