@@ -17,7 +17,7 @@ function ScrollToTop() {
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <BrowserRouter basename="/furniro---site">
+    <BrowserRouter>
       <ScrollToTop />
       <App />
     </BrowserRouter>
